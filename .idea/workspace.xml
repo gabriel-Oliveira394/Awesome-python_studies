@@ -35,20 +35,41 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
-  <component name="RunManager" selected="Python.4 - Class variable and Instance variable together">
-    <configuration name="1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.2 - Guido's Gorgeous Lasagna">
+    <configuration name="1 - Hello World" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="C:\Users\Gabriel\anaconda3\envs\py_estudos\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Code_tricks/OOP - Object-Oriented Programming/Matheus - treinamento" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Code_tricks/Exercism" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Code_tricks/OOP - Object-Oriented Programming/Matheus - treinamento/1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Code_tricks/Exercism/1 - Hello World.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="2 - Guido's Gorgeous Lasagna" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Gabriel\anaconda3\envs\py_estudos\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Code_tricks/Exercism" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Code_tricks/Exercism/2 - Guido's Gorgeous Lasagna.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -120,34 +141,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="sorted and lambda - Sorting (reverse, key, multiple attributes-value)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:\Users\Gabriel\anaconda3\envs\py_estudos\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Code_tricks" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Code_tricks/sorted and lambda - Sorting (reverse, key, multiple attributes-value).py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.2 - Guido's Gorgeous Lasagna" />
+        <item itemvalue="Python.1 - Hello World" />
         <item itemvalue="Python.4 - Class variable and Instance variable together" />
         <item itemvalue="Python.3 - Instance variable" />
         <item itemvalue="Python.2" />
-        <item itemvalue="Python.1" />
-        <item itemvalue="Python.sorted and lambda - Sorting (reverse, key, multiple attributes-value)" />
       </list>
     </recent_temporary>
   </component>
@@ -173,5 +173,16 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Code_tricks/OOP - Object-Oriented Programming/Matheus - treinamento/4 - Class variable and Instance variable together.py</url>
+          <line>41</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

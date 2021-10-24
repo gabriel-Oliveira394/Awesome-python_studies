@@ -1,35 +1,35 @@
 
 class Calculadora:
 
-    def __init__(self, num1, num2):
-        self.num1 = num1
-        self.num2 = num2
+    @staticmethod
+    def add(n1, n2):
+        return n1 + n2
 
-    def add(self):
-        return int(self.num1) + int(self.num2)
+    @staticmethod
+    def subt(n1, n2):
+        return n1 - n2
 
-    def subt(self):
-        return int(self.num1) - int(self.num2)
+    @staticmethod
+    def times(n1, n2):
+        return n1 * n2
 
-    def times(self):
-        return int(self.num1) * int(self.num2)
+    @staticmethod
+    def division(n1, n2):
+        try:
+            return n1 / n2
 
-    def division(self):
-        if self.num2 == 0:
-            print(f'Error, division by zero. Try again!')
-
-        else:
-            return int(self.num1) / int(self.num2)
+        except ZeroDivisionError as error:
+            print(error)
 
 
 if __name__ == '__main__':
-    num1 = input('First number: ')
-    num2 = input('Second number: ')
-    b = Calculadora(num1, num2)
-    print(b.add())
-    print(b.subt())
-    print(b.times())
-    print(b.division())
+    num1 = int(input('First number: '))
+    num2 = int(input('Second number: '))
+    b = Calculadora()
+    print(b.division(num1, num2))
+    print(b.add(num1, num2))
+    print(b.subt(num1, num2))
+    print(b.times(num1, num2))
 
     user = 'Gabriel'
     print(f'{user=}')

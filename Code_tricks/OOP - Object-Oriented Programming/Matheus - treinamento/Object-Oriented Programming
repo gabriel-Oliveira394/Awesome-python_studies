@@ -1,0 +1,79 @@
+# 1. How To Construct Classes and Define Objects in Python 3
+
+All of the contents here described were taken from the following [link at digital ocean.](https://www.digitalocean.com/community/tutorial_series/object-oriented-programming-in-python-3)
+
+## Introduction
+
+Python is an **object-oriented programming language**. Object-oriented programming (OOP) focuses on creating reusable patterns of code, in contrast to **procedural programming**, which focuses on explicit sequenced instructions. When working on complex programs in particular, object-oriented programming lets you reuse code and write code that is more readable, which in turn makes it more maintainable.
+
+One of the most important concepts in object-oriented programming is the distinction between classes and objects, which are defined as follows:
+
+* **Class** — A blueprint created by a programmer for an object. This defines a set of attributes that will characterize any object that is instantiated from this class.
+
+* **Object** — An instance of a class. This is the realized version of the class, where the class is manifested in the program.
+
+These are used to create patterns (in the case of classes) and then make use of the patterns (in the case of objects).
+
+In this tutorial, we’ll go through **creating classes, instantiating objects, initializing attributes** with the constructor method, and working with more than one object of the same class.
+
+### Classes
+Classes are like a blueprint or a prototype that you can define to use to **create objects**.
+
+We define classes by using the ```class``` keyword, similar to how we define functions by using the ```def``` keyword.
+
+Let’s define a class called ```Shark``` that has two functions associated with it, one for swimming and one for being awesome:
+
+
+Because these functions are indented under the class ```Shark```, they are called methods. Methods are a special kind of function that are defined within a class.
+
+
+
+The argument to these functions is the word ```self```, which is a reference to objects that are made based on this class. To reference instances (or objects) of the class, ```self``` will always be the first parameter, but it need not be the only one.
+
+Defining this class did not create any ```Shark``` objects, only the pattern for a ```Shark``` object that we can define later. That is, if you run the program above at this stage nothing will be returned.
+
+Creating the ```Shark``` class above provided us with a blueprint for an object.
+
+
+# Objects
+An object is an instance of a class. We can take the ```Shark``` class defined above, and use it to create an object or instance of it.
+
+We’ll make a ```Shark``` object called ```sammy```:
+
+``` Python
+class Shark:
+    def swim(self):
+        print("The shark is swimming.")
+        
+    def be_awesome(self):
+        print("The shark is being awesome.")
+
+sammy = Shark()
+```
+
+Here, we initialized the object ```sammy``` as an instance of the class by setting it equal to ```Shark()```.
+
+# What Is Inheritance?
+**Inheritance** is when a class uses code constructed within another class. If we think of inheritance in terms of biology, we can think of a child inheriting certain traits from their parent. That is, a child can inherit a parent’s height or eye color. Children also may share the same last name with their parents.
+
+Classes called **child classes** or **subclasses** inherit methods and variables from **parent classes** or **base classes**.
+
+We can think of a parent class called ```Parent``` that has class variables for ```last_name```, ```height```, and ```eye_color``` that the child class ```Child``` will inherit from the ```Parent```.
+
+Because the ```Child``` subclass is inheriting from the ```Parent``` base class, the ```Child``` class can reuse the code of ```Parent```, allowing the programmer to use fewer lines of code and decrease redundancy.
+
+
+# Parent Classes
+Parent or base classes create a pattern out of which child or subclasses can be based on. Parent classes allow us to create child classes through inheritance without having to write the same code over again each time. Any class can be made into a parent class, so they are each fully functional classes in their own right, rather than just templates.
+
+Let’s say we have a general ```Bank_account``` parent class that has ```Personal_account``` and ```Business_account``` child classes. Many of the methods between personal and business accounts will be similar, such as methods to withdraw and deposit money, so those can belong to the parent class of ```Bank_account```. The ```Business_account``` subclass would have methods specific to it, including perhaps a way to collect business records and forms, as well as an ```employee_identification_number``` variable.
+
+Similarly, an ```Animal``` class may have ```eating()``` and ```sleeping()``` methods, and a ```Snake``` subclass may include its own specific ```hissing()``` and ```slithering()``` methods.
+
+Let’s create a ```Fish``` parent class that we will later use to construct types of fish as its subclasses. Each of these fish will have first names and last names in addition to characteristics.
+
+
+We’ll create a new file called ```fish.py``` and start with the ```__init__()``` constructor method, which we’ll populate with ```first_name``` and ```last_name``` class variables for each ```Fish``` object or subclass.
+
+We have initialized our ```last_name``` variable with the string ```"Fish"``` because we know that most fish will have this as their last name.
+

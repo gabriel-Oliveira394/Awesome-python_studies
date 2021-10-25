@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="d41823e3-d9d1-4fb7-b5e8-47e77a5b2f1c" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code_tricks/OOP - Object-Oriented Programming/Matheus - treinamento/1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code_tricks/OOP - Object-Oriented Programming/Matheus - treinamento/3. Understanding Class Inheritance in Python 3.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Code_tricks/OOP - Object-Oriented Programming/Matheus - treinamento/3. Understanding Class Inheritance in Python 3.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,8 +43,9 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File" value="Markdown" />
   </component>
-  <component name="RunManager" selected="Python.Exemplo 2. Calculadora OOP">
+  <component name="RunManager" selected="Python.5 - Inheritance - parent class and child class - super () function">
     <configuration name="2 - raising exceptions (RAISE)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -64,19 +67,19 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="3 - printing things" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="5 - Inheritance - parent class and child class - super () function" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="C:\Users\Gabriel\anaconda3\envs\py_estudos\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Code_tricks" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Code_tricks/OOP - Object-Oriented Programming/Matheus - treinamento" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Code_tricks/3 - printing things.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Code_tricks/OOP - Object-Oriented Programming/Matheus - treinamento/5 - Inheritance - parent class and child class - super () function.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -150,11 +153,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.5 - Inheritance - parent class and child class - super () function" />
         <item itemvalue="Python.Exemplo 2. Calculadora OOP" />
         <item itemvalue="Python.Exemplo 1. Car OOP" />
         <item itemvalue="Python.2 - raising exceptions (RAISE)" />
         <item itemvalue="Python.calculadora" />
-        <item itemvalue="Python.3 - printing things" />
       </list>
     </recent_temporary>
   </component>

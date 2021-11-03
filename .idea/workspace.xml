@@ -45,20 +45,20 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.6 - List comprehension (example)">
-    <configuration name="1. Pytest easy approach" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Mini Project 1 - Cake class">
+    <configuration name="Circle class_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="C:\Users\Gabriel\anaconda3\envs\py_estudos\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Code_tricks/Tests/Pytest/1. Calculator" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Code_tricks/OOP - Object-Oriented Programming/Udemy Course/Section 4" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Code_tricks/Tests/Pytest/1. Calculator/1. Pytest easy approach.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Code_tricks/OOP - Object-Oriented Programming/Udemy Course/Section 4/Circle class_1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -67,19 +67,19 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="6 - List comprehension (example)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Mini Project 1 - Cake class" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="C:\Users\Gabriel\anaconda3\envs\py_estudos\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Code_tricks" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Code_tricks/OOP - Object-Oriented Programming/Udemy Course/Section 4" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Code_tricks/6 - List comprehension (example).py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Code_tricks/OOP - Object-Oriented Programming/Udemy Course/Section 4/Mini Project 1 - Cake class.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -88,19 +88,19 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="6.1 - List comprehension" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Mini Project 1 - Customer class" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="C:\Users\Gabriel\anaconda3\envs\py_estudos\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Code_tricks" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Code_tricks/OOP - Object-Oriented Programming/Udemy Course/Section 4" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Code_tricks/6.1 - List comprehension.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Code_tricks/OOP - Object-Oriented Programming/Udemy Course/Section 4/Mini Project 1 - Customer class.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -109,19 +109,19 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="7. Dictionary" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Mini Project 1 - Donut class" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="C:\Users\Gabriel\anaconda3\envs\py_estudos\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Code_tricks" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Code_tricks/OOP - Object-Oriented Programming/Udemy Course/Section 4" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Code_tricks/7. Dictionary.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Code_tricks/OOP - Object-Oriented Programming/Udemy Course/Section 4/Mini Project 1 - Donut class.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -130,19 +130,19 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="8 - Games_Base_Game" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="bacteria" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="C:\Users\Gabriel\anaconda3\envs\py_estudos\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Code_tricks/OOP - Object-Oriented Programming/Matheus - treinamento" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Code_tricks/OOP - Object-Oriented Programming/Udemy Course/Section 4" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Code_tricks/OOP - Object-Oriented Programming/Matheus - treinamento/8 - Games_Base_Game.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Code_tricks/OOP - Object-Oriented Programming/Udemy Course/Section 4/bacteria.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -153,11 +153,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.6 - List comprehension (example)" />
-        <item itemvalue="Python.6.1 - List comprehension" />
-        <item itemvalue="Python.7. Dictionary" />
-        <item itemvalue="Python.1. Pytest easy approach" />
-        <item itemvalue="Python.8 - Games_Base_Game" />
+        <item itemvalue="Python.Mini Project 1 - Cake class" />
+        <item itemvalue="Python.Mini Project 1 - Customer class" />
+        <item itemvalue="Python.Mini Project 1 - Donut class" />
+        <item itemvalue="Python.bacteria" />
+        <item itemvalue="Python.Circle class_1" />
       </list>
     </recent_temporary>
   </component>
